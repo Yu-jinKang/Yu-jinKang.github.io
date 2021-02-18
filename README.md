@@ -9,9 +9,9 @@ markdown.
 >test
 >Test...
 
-*noNumber
-  *noNumBer
-*nonumbeR
++noNumber
+  +noNumBer
++nonumbeR
 
 
 This is a block test.
