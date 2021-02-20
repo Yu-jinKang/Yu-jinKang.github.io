@@ -10,7 +10,7 @@ markdown.
 >Test...
 
 +noNumber   
-  *noNumBer   
+*noNumBer   
 +nonumbeR   
 
 
@@ -26,3 +26,6 @@ the horizontal line
 spaceBar test   
 like this.
 한글 입력...
+
+
+//xcode 오류 고치는 중
