@@ -22,12 +22,14 @@
 email: smlee.981@gmail.com  
 description: A responsive, modern, Jekyll theme for bloggers with Bootstrap styling and KaTex support.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Yu-jinKang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: jekyll-theme-cadre 
 plugins:
   - jekyll-feed
+
+remote_theme: slee981/jekyll-theme-cadre
 
 # Exclude from processing.
 # The following items will not be processed, by default.
